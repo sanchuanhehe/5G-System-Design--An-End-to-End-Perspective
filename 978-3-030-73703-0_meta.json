@@ -1,0 +1,7348 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Preface to the First Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Preface to the Second Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Acknowledgement",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Contributors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Chapter 1: From 4G to\u00a05G: Use Cases and\u00a0Requirements",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 63,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.1 Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                265.0
+            ]
+        },
+        {
+            "title": "1.2 Global 5G Development",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                445.0
+            ]
+        },
+        {
+            "title": "1.2.1 ITU-R Development on\u00a05G/IMT-2020",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                133.0
+            ]
+        },
+        {
+            "title": "1.2.2 Regional Development/Promotion on\u00a05G",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.2.2.1 NGMN",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                494.0
+            ]
+        },
+        {
+            "title": "1.2.2.2 IMT-2020 (5G) Promotion Group",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                278.0
+            ]
+        },
+        {
+            "title": "1.2.2.3 Europe: 5G IA",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.2.2.4 Korea: 5G forum",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                344.0
+            ]
+        },
+        {
+            "title": "1.2.2.5 Japan: 5GMF",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                140.0
+            ]
+        },
+        {
+            "title": "1.2.2.6 North and\u00a0South America: 5G Americas",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                536.0
+            ]
+        },
+        {
+            "title": "1.2.2.7 Global 5G Event",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                344.0
+            ]
+        },
+        {
+            "title": "1.2.3 Standard Development",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                145.0
+            ]
+        },
+        {
+            "title": "1.3 Use Case Extensions and\u00a0Requirements",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 43,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                121.0
+            ]
+        },
+        {
+            "title": "1.3.1 5G Usage Cases and\u00a0Service Requirement",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 19,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                493.0
+            ]
+        },
+        {
+            "title": "1.3.1.1 Extended Usage Scenarios: From\u00a0eMBB to\u00a0IoT (mMTC and\u00a0URLLC)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                368.0
+            ]
+        },
+        {
+            "title": "1.3.1.2 Survey of\u00a0Diverse Services Across 5G Usage Scenarios and\u00a0the\u00a0Diverse Requirements",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "eMBB Services",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                499.0
+            ]
+        },
+        {
+            "title": "UHD/3D Video Streaming",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                349.0
+            ]
+        },
+        {
+            "title": "Video Sharing",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                277.0
+            ]
+        },
+        {
+            "title": "AR/VR Delivery to\u00a0the\u00a0User",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                181.0
+            ]
+        },
+        {
+            "title": "mMTC Services",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                275.0
+            ]
+        },
+        {
+            "title": "URLLC Services",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                163.0
+            ]
+        },
+        {
+            "title": "1.3.1.3 Supporting Requirements and\u00a0Operational Requirements to\u00a0Enable 5G Service Deployment",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                464.0
+            ]
+        },
+        {
+            "title": "eMBB",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                319.0
+            ]
+        },
+        {
+            "title": "Edge User-Experienced Data Rate",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                181.0
+            ]
+        },
+        {
+            "title": "Area Traffic Capacity",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                379.0
+            ]
+        },
+        {
+            "title": "Spectral Efficiency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                163.0
+            ]
+        },
+        {
+            "title": "Energy Efficiency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                505.0
+            ]
+        },
+        {
+            "title": "mMTC",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                559.0
+            ]
+        },
+        {
+            "title": "URLLC",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                451.0
+            ]
+        },
+        {
+            "title": "Availability",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                427.0
+            ]
+        },
+        {
+            "title": "General",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                313.0
+            ]
+        },
+        {
+            "title": "Coverage",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                247.0
+            ]
+        },
+        {
+            "title": "1.3.2 5G Key Capabilities and\u00a0Technical Performance Requirements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 21,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.3.2.1 Key Capabilities for\u00a05G",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 19,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                492.0
+            ]
+        },
+        {
+            "title": "eMBB",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                384.0
+            ]
+        },
+        {
+            "title": "User-Experienced Data Rate",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                607.0
+            ]
+        },
+        {
+            "title": "Area Traffic Capacity",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                451.0
+            ]
+        },
+        {
+            "title": "Mobility",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                319.0
+            ]
+        },
+        {
+            "title": "Peak Data Rate",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                199.0
+            ]
+        },
+        {
+            "title": "Energy Efficiency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                607.0
+            ]
+        },
+        {
+            "title": "Spectral Efficiency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                427.0
+            ]
+        },
+        {
+            "title": "mMTC",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                607.0
+            ]
+        },
+        {
+            "title": "Connection Density",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                517.0
+            ]
+        },
+        {
+            "title": "Network Energy Efficiency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                421.0
+            ]
+        },
+        {
+            "title": "Operational Lifetime",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                349.0
+            ]
+        },
+        {
+            "title": "URLLC",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                259.0
+            ]
+        },
+        {
+            "title": "Latency",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                193.0
+            ]
+        },
+        {
+            "title": "Mobility",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                607.0
+            ]
+        },
+        {
+            "title": "Reliability",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                523.0
+            ]
+        },
+        {
+            "title": "Resilience",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                463.0
+            ]
+        },
+        {
+            "title": "Other Capabilities",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                397.0
+            ]
+        },
+        {
+            "title": "Spectrum and\u00a0Bandwidth Flexibility",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                343.0
+            ]
+        },
+        {
+            "title": "Security and\u00a0Privacy",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                259.0
+            ]
+        },
+        {
+            "title": "1.3.2.2 Technical Performance Requirements for\u00a05G",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                146.0
+            ]
+        },
+        {
+            "title": "1.3.3 Summary on\u00a05G Requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                457.0
+            ]
+        },
+        {
+            "title": "1.4 Standard Organization and\u00a05G Activities",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.4.1 ITU-R Procedure/Process of\u00a0IMT-2020 Submission",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                344.0
+            ]
+        },
+        {
+            "title": "1.4.2 3GPP Development Toward ITU-R Submission",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.4.3 Independent Evaluation Groups to\u00a0Assist ITU-R Endorse IMT-2020 Specification",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                385.0
+            ]
+        },
+        {
+            "title": "1.4.4 Status in\u00a0ITU",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "1.5 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                464.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 61,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                325.0
+            ]
+        },
+        {
+            "title": "Chapter 2: 4G LTE Fundamental Air Interface Design",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 41,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "2.1 LTE Air Interface Overview",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                349.0
+            ]
+        },
+        {
+            "title": "2.2 LTE Frame Structure",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "2.3 Physical Layer Channels",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                161.0
+            ]
+        },
+        {
+            "title": "2.3.1 Multiple-Access Scheme",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                341.0
+            ]
+        },
+        {
+            "title": "2.3.2 System Bandwidth",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                252.0
+            ]
+        },
+        {
+            "title": "2.3.3 Numerology",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 69,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                439.0
+            ]
+        },
+        {
+            "title": "2.3.4 Physical Channel Definition",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 71,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                481.0
+            ]
+        },
+        {
+            "title": "2.4 Reference Signal",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                457.0
+            ]
+        },
+        {
+            "title": "2.4.1 Downlink Reference Signals",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                301.0
+            ]
+        },
+        {
+            "title": "2.4.1.1 Cell-Specific Reference Signal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                134.0
+            ]
+        },
+        {
+            "title": "2.4.1.2 UE-Specific Reference Signal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 74,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                296.0
+            ]
+        },
+        {
+            "title": "2.4.1.3 CSI Reference Signal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                308.0
+            ]
+        },
+        {
+            "title": "2.4.1.4 Discovery Signal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                164.0
+            ]
+        },
+        {
+            "title": "2.4.1.5 Other Downlink Reference Signals",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 83,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                440.0
+            ]
+        },
+        {
+            "title": "2.4.2 Uplink Reference Signals",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 83,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                325.0
+            ]
+        },
+        {
+            "title": "2.4.2.1 Uplink Demodulation Reference Signal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 83,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                182.0
+            ]
+        },
+        {
+            "title": "2.4.2.2 Uplink Sounding Reference Signal (SRS)",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 87,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                331.0
+            ]
+        },
+        {
+            "title": "SRS Transmission in\u00a0Time Domain",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 88,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                487.0
+            ]
+        },
+        {
+            "title": "SRS Transmission in\u00a0Frequency Domain",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 88,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                259.0
+            ]
+        },
+        {
+            "title": "Aperiodic SRS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 90,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                142.0
+            ]
+        },
+        {
+            "title": "2.5 Downlink Transmission",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                481.0
+            ]
+        },
+        {
+            "title": "2.5.1 PBCH",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                349.0
+            ]
+        },
+        {
+            "title": "2.5.2 Control Channel",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "2.5.2.1 PCFICH",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                398.0
+            ]
+        },
+        {
+            "title": "2.5.2.2 PDCCH",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 94,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                380.0
+            ]
+        },
+        {
+            "title": "2.5.2.3 PHICH",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 96,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                272.0
+            ]
+        },
+        {
+            "title": "2.5.3 PDSCH",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 98,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                229.0
+            ]
+        },
+        {
+            "title": "2.5.4 Modulation Coding Scheme (MCS)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                179.0
+            ]
+        },
+        {
+            "title": "2.6 Uplink Transmission",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "2.6.1 PUCCH",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                582.0
+            ]
+        },
+        {
+            "title": "2.6.1.1 PUCCH Formats 1/1a/1b",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                336.0
+            ]
+        },
+        {
+            "title": "2.6.1.2 PUCCH Format 2/2a/2b",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 104,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                263.0
+            ]
+        },
+        {
+            "title": "2.6.1.3 PUCCH Format 3",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 105,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                265.0
+            ]
+        },
+        {
+            "title": "2.6.1.4 PUCCH Format 4/Format 5",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 106,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                452.0
+            ]
+        },
+        {
+            "title": "2.6.2 PUSCH",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 107,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                337.0
+            ]
+        },
+        {
+            "title": "2.6.3 Modulation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 108,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                141.0
+            ]
+        },
+        {
+            "title": "2.7 HARQ Timing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 109,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                481.0
+            ]
+        },
+        {
+            "title": "2.8 Carrier Aggregation (CA) and\u00a0Band Combinations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "2.9 Initial Access and\u00a0Mobility Procedures",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                296.0
+            ]
+        },
+        {
+            "title": "2.10 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 116,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                482.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 117,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                469.0
+            ]
+        },
+        {
+            "title": "Chapter 3: 5G Fundamental Air Interface Design",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 134,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.1 5G-NR Design of\u00a0Carrier and\u00a0Channels",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 40,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                265.0
+            ]
+        },
+        {
+            "title": "3.1.1 Numerology for\u00a0the\u00a0Carrier",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                239.0
+            ]
+        },
+        {
+            "title": "3.1.2 Frame Structure",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 122,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                505.0
+            ]
+        },
+        {
+            "title": "3.1.2.1 Cell-Specific Higher Layer Configuration",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 123,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                227.0
+            ]
+        },
+        {
+            "title": "3.1.2.2 UE-Specific Higher Layer Configuration",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                398.0
+            ]
+        },
+        {
+            "title": "3.1.2.3 Group Common PDCCH",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 125,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                536.0
+            ]
+        },
+        {
+            "title": "3.1.2.4 DL/UL Dynamic Scheduling",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 125,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                308.0
+            ]
+        },
+        {
+            "title": "3.1.3 Physical Layer Channels",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 9,
+            "page_index": 126,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                358.0
+            ]
+        },
+        {
+            "title": "3.1.3.1 Physical Broadcast Channel (PBCH)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 126,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                184.0
+            ]
+        },
+        {
+            "title": "3.1.3.2 Physical Shared Data Channel (PDSCH)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 129,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.1.3.3 Physical Downlink Control Channel (PDCCH)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 130,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                164.0
+            ]
+        },
+        {
+            "title": "3.1.3.4 Physical Uplink Shared Data Channel (PUSCH)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                164.0
+            ]
+        },
+        {
+            "title": "3.1.3.5 Physical Uplink Control Channel (PUCCH)",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 134,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                272.0
+            ]
+        },
+        {
+            "title": "3.1.3.5.1 PUCCH Format 0",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 135,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                439.0
+            ]
+        },
+        {
+            "title": "3.1.3.5.2 PUCCH Format 1",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 135,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                247.0
+            ]
+        },
+        {
+            "title": "3.1.3.5.3 PUCCH Format 2",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 136,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                340.0
+            ]
+        },
+        {
+            "title": "3.1.3.5.4 PUCCH Formats 3 and\u00a04",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 136,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                160.0
+            ]
+        },
+        {
+            "title": "3.1.4 Physical Layer (PHY) Reference Signals",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 23,
+            "page_index": 137,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                283.0
+            ]
+        },
+        {
+            "title": "3.1.4.1 Reference Signal Design Framework and\u00a0Considerations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                500.0
+            ]
+        },
+        {
+            "title": "3.1.4.2 Demodulation Reference Signal",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 140,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                248.0
+            ]
+        },
+        {
+            "title": "3.1.4.2.1 Overall Design of\u00a0NR DM-RS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                301.0
+            ]
+        },
+        {
+            "title": "3.1.4.2.2 DM-RS Type 1 Configuration",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 143,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                240.0
+            ]
+        },
+        {
+            "title": "3.1.4.2.3 DM-RS Type 2 Configuration",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 144,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                345.0
+            ]
+        },
+        {
+            "title": "3.1.4.3 CSI-RS",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 144,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                190.0
+            ]
+        },
+        {
+            "title": "3.1.4.3.1 General Design of\u00a0CSI-RS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.1.4.3.2 CSI-RS for\u00a0CSI Acquisition",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                313.0
+            ]
+        },
+        {
+            "title": "3.1.4.3.3 CSI-RS for\u00a0Beam Management",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 148,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                439.0
+            ]
+        },
+        {
+            "title": "3.1.4.3.4 CSI-RS for\u00a0Time and\u00a0Frequency Tracking",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 148,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                163.0
+            ]
+        },
+        {
+            "title": "3.1.4.3.5 CSI-RS for\u00a0Mobility Measurement",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                187.0
+            ]
+        },
+        {
+            "title": "3.1.4.4 Sounding Reference Signal",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 150,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.1 General Design of\u00a0SRS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 150,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                235.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.2 SRS for\u00a0DL CSI Acquisition",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 151,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                187.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.2.1 SRS Antenna Switching",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 152,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.2.2 SRS Carrier Switching",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 152,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                331.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.3 SRS for\u00a0Codebook- and\u00a0Non-Codebook-Based Uplink MIMO",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                547.0
+            ]
+        },
+        {
+            "title": "3.1.4.4.4 SRS for\u00a0UL Beam Management",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                331.0
+            ]
+        },
+        {
+            "title": "3.1.4.5 Phase Tracking Reference Signal",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                176.0
+            ]
+        },
+        {
+            "title": "3.1.4.5.1 PT-RS for\u00a0PDSCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.1.4.5.2 PT-RS for\u00a0PUSCH of\u00a0CP-OFDM",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                331.0
+            ]
+        },
+        {
+            "title": "3.1.4.5.3 PT-RS for\u00a0PUSCH of\u00a0DFT-s-OFDM",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                451.0
+            ]
+        },
+        {
+            "title": "3.1.4.6 Quasi-co-location and\u00a0Transmission Configuration Indicator",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 156,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                340.0
+            ]
+        },
+        {
+            "title": "3.2 5G-NR Spectrum and\u00a0Band Definition",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 21,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                169.0
+            ]
+        },
+        {
+            "title": "3.2.1 5G Spectrum and\u00a0Duplexing",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 12,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                143.0
+            ]
+        },
+        {
+            "title": "3.2.1.1 IMT-2020 Candidate Spectrum",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 157,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                118.0
+            ]
+        },
+        {
+            "title": "3.2.1.1.1 C-band (3300\u20134200\u00a0MHz and\u00a04400\u20135000\u00a0MHz)",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                278.0
+            ]
+        },
+        {
+            "title": "3.2.1.1.2 Mm-Wave Bands",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 160,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                317.0
+            ]
+        },
+        {
+            "title": "3.2.1.1.3 Sub-6 GHz Frequency Bands for\u00a05G",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                369.0
+            ]
+        },
+        {
+            "title": "3.2.1.2 5G Duplexing Mechanisms",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 162,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                420.0
+            ]
+        },
+        {
+            "title": "3.2.1.2.1 5G Candidate Band Types and\u00a0Duplex Modes",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 162,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                395.0
+            ]
+        },
+        {
+            "title": "3.2.1.2.2 Flexible Duplex: Convergence of\u00a0FDD and\u00a0TDD",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 163,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                343.0
+            ]
+        },
+        {
+            "title": "3.2.1.2.2.1 Joint Operation of\u00a0FDD and\u00a0TDD",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 163,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                241.0
+            ]
+        },
+        {
+            "title": "3.2.1.2.2.2 Synchronization for\u00a0TDD Band",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 164,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                301.0
+            ]
+        },
+        {
+            "title": "3.2.1.2.2.3 Dynamic TDD and\u00a0Flexible Duplex",
+            "level": 5,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 170,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                607.0
+            ]
+        },
+        {
+            "title": "Dynamic TDD",
+            "level": 6,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 170,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                367.0
+            ]
+        },
+        {
+            "title": "Flexible Duplex",
+            "level": 6,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                267.0
+            ]
+        },
+        {
+            "title": "3.2.2 3GPP 5G-NR Band Definition",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 174,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                379.0
+            ]
+        },
+        {
+            "title": "3.2.2.1 3GPP Rel.15 5G-NR Band Definition",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 174,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                354.0
+            ]
+        },
+        {
+            "title": "3.2.2.2 3GPP 5G-NR Band Combination",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 174,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                150.0
+            ]
+        },
+        {
+            "title": "3.2.2.2.1 5G-NR Band Combination Mechanisms",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 176,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                501.0
+            ]
+        },
+        {
+            "title": "3.2.2.2.2 5G Band Combination Definition",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 177,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                108.0
+            ]
+        },
+        {
+            "title": "3.2.2.2.3 Multi-Band Coexistence Requirements and\u00a0Solutions: Intermodulation and\u00a0Harmonics",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 178,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                142.0
+            ]
+        },
+        {
+            "title": "3.2.2.2.3.1 Intermodulation Avoidance with\u00a0Single UL Transmission",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 181,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                243.0
+            ]
+        },
+        {
+            "title": "3.2.2.2.3.2 Harmonics Distortion Avoidance by Cross-Band Scheduling Coordination",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 184,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.3 4G/5G Spectrum Sharing (a.k.a. LTE/NR Coexistence)",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 36,
+            "page_index": 185,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.3.1 Motivation and\u00a0Benefit",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 185,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                320.0
+            ]
+        },
+        {
+            "title": "3.3.1.1 NR Coverage on\u00a0New Spectrum",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 186,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.3.1.1.1 Link Budget",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 186,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                463.0
+            ]
+        },
+        {
+            "title": "3.3.1.1.2 UL/DL Assignment Impact on\u00a0NR Coverage",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 187,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                128.0
+            ]
+        },
+        {
+            "title": "3.3.1.1.3 5G-NR Deployment Challenges Due\u00a0to\u00a0the\u00a0Coverage",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                288.0
+            ]
+        },
+        {
+            "title": "3.3.1.2 UL/DL Decoupling Enabled by 4G/5G UL Spectrum Sharing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                152.0
+            ]
+        },
+        {
+            "title": "3.3.1.3 Benefits of\u00a04G/5G Uplink Spectrum Sharing",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 190,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                123.0
+            ]
+        },
+        {
+            "title": "3.3.1.3.1 Higher Spectrum Utilization Efficiency",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 190,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                98.0
+            ]
+        },
+        {
+            "title": "3.3.1.3.2 Feedback Latency and\u00a0Efficiency",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 192,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                315.0
+            ]
+        },
+        {
+            "title": "3.3.1.3.3 Seamless Coverage, Deployment Investment, and\u00a0Mobility",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 193,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                451.0
+            ]
+        },
+        {
+            "title": "3.3.1.3.4 Unified Network Configuration for\u00a0Various Traffic Types",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 193,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                115.0
+            ]
+        },
+        {
+            "title": "3.3.1.4 Summary of\u00a0LTE/NR Spectrum Sharing Scenarios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                127.0
+            ]
+        },
+        {
+            "title": "3.3.2 LTE/NR Spectrum Sharing: Network Deployment Scenarios",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 195,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                541.0
+            ]
+        },
+        {
+            "title": "3.3.2.1 LTE/NR UL Sharing for\u00a0NR Stand-Alone Deployment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.3.2.2 LTE/NR UL Sharing for\u00a0Non-stand-alone NR Deployment, from\u00a0Network and\u00a0UE Perspective",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 198,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                404.0
+            ]
+        },
+        {
+            "title": "3.3.2.3 LTE/NR Sharing in\u00a0TDD Band",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                500.0
+            ]
+        },
+        {
+            "title": "3.3.3 LTE/NR Spectrum Sharing: Requirements for\u00a0Highly Efficient Sharing",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                361.0
+            ]
+        },
+        {
+            "title": "3.3.3.1 Subcarrier Alignment for\u00a0LTE/NR Spectrum Sharing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                222.0
+            ]
+        },
+        {
+            "title": "3.3.3.2 PRB Alignment for\u00a0LTE/NR Spectrum Sharing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 203,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                412.0
+            ]
+        },
+        {
+            "title": "3.3.3.3 Channel Raster for\u00a0the\u00a0NR SUL Band",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 207,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                435.0
+            ]
+        },
+        {
+            "title": "3.3.3.4 Synchronization and\u00a0Timing for\u00a0LTE/NR UL Sharing",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 208,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                289.0
+            ]
+        },
+        {
+            "title": "3.3.3.4.1 Synchronization Requirements Between LTE UL and\u00a0NR SUL Cells",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 209,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.3.3.4.2 Timing Advance Mechanisms for\u00a0LTE/NR UL Sharing",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.3.3.4.3 NSA LTE/NR UL Sharing TDM Configuration for\u00a0HARQ Timing",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 211,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                487.0
+            ]
+        },
+        {
+            "title": "3.3.4 NR SUL Band Combinations: Uplink Carrier Selection and\u00a0Switching",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 212,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                505.0
+            ]
+        },
+        {
+            "title": "3.3.4.1 Single-Cell Concept",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 212,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                466.0
+            ]
+        },
+        {
+            "title": "3.3.4.2 UL Carrier Selection and\u00a0Switch",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 213,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                536.0
+            ]
+        },
+        {
+            "title": "3.3.4.2.1 Idle Mode UL Selection: Initial Access with\u00a0PRACH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 214,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "3.3.4.2.2 Connected Mode UL Selection: PUSCH/PUCCH Scheduling",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                223.0
+            ]
+        },
+        {
+            "title": "3.3.4.3 SRS Switching",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.3.4.4 Power Control",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 219,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.3.5 4G/5G DL Spectrum Sharing Design",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 220,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                198.0
+            ]
+        },
+        {
+            "title": "3.3.5.1 Rate Matching Around CRS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                560.0
+            ]
+        },
+        {
+            "title": "3.3.5.2 MBSFN-Type Sharing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                272.0
+            ]
+        },
+        {
+            "title": "3.3.5.3 3.3.5.3\u00a0Mini-Slot Scheduling",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                148.0
+            ]
+        },
+        {
+            "title": "3.3.5.4 SS SCS Definition for\u00a0Coexisting Bands",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 223,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                407.0
+            ]
+        },
+        {
+            "title": "3.4 5G-NR New Physical Layer Technologies",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 23,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                435.0
+            ]
+        },
+        {
+            "title": "3.4.1 Waveform and\u00a0Multiple Access",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                408.0
+            ]
+        },
+        {
+            "title": "3.4.2 Channel Coding",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 227,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                553.0
+            ]
+        },
+        {
+            "title": "3.4.2.1 LDPC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 229,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                400.0
+            ]
+        },
+        {
+            "title": "3.4.2.2 Polar Code",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 230,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                152.0
+            ]
+        },
+        {
+            "title": "3.4.3 MIMO Design",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 13,
+            "page_index": 233,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.4.3.1 DM-RS-Based MIMO Transmission",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 234,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                272.0
+            ]
+        },
+        {
+            "title": "3.4.3.1.1 Codeword-to-Layer Mapping",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                472.0
+            ]
+        },
+        {
+            "title": "3.4.3.1.2 PRB Bundling",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                280.0
+            ]
+        },
+        {
+            "title": "3.4.3.1.3 DCI for\u00a0MU-MIMO",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 236,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                199.0
+            ]
+        },
+        {
+            "title": "3.4.3.2 CSI Acquisition",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                488.0
+            ]
+        },
+        {
+            "title": "3.4.3.2.1 Framework for\u00a0Configuration and\u00a0Signaling of\u00a0CSI Acquisition",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                403.0
+            ]
+        },
+        {
+            "title": "3.4.3.2.2 Measurement for\u00a0CSI Acquisition",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 238,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                177.0
+            ]
+        },
+        {
+            "title": "3.4.3.2.3 Feedback Report and\u00a0Calculation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                397.0
+            ]
+        },
+        {
+            "title": "3.4.3.2.4 Codebooks for\u00a0PMI Report",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 242,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                309.0
+            ]
+        },
+        {
+            "title": "3.4.3.3 Uplink MIMO",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                476.0
+            ]
+        },
+        {
+            "title": "3.4.3.3.1 Codebook-Based Uplink MIMO",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                403.0
+            ]
+        },
+        {
+            "title": "3.4.3.3.2 Non-codebook-Based Uplink MIMO",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                189.0
+            ]
+        },
+        {
+            "title": "3.4.3.3.3 Uplink Full-Power Transmission",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 245,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                547.0
+            ]
+        },
+        {
+            "title": "3.4.4 5G-NR Unified Air Interface Design for\u00a0eMBB and\u00a0URLLC",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 246,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.4.5 mMTC",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 246,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                306.0
+            ]
+        },
+        {
+            "title": "3.4.5.1 NB-IoT",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.4.5.2 eMTC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                356.0
+            ]
+        },
+        {
+            "title": "3.4.5.3 NR mMTC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 250,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                152.0
+            ]
+        },
+        {
+            "title": "3.5 NR-Based Unlicensed Access",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 252,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "3.6 Positioning in\u00a0NR",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 259,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                385.0
+            ]
+        },
+        {
+            "title": "3.7 Power Saving",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 262,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                133.0
+            ]
+        },
+        {
+            "title": "3.7.1 PDCCH-Based Indication of\u00a0Wake-Up Signal and\u00a0Dormancy Adaptation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 263,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                529.0
+            ]
+        },
+        {
+            "title": "3.7.2 Cross-Slot Scheduling-Based Power Saving",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 265,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                265.0
+            ]
+        },
+        {
+            "title": "3.7.3 BWP-Based MIMO Adaptation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 267,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                393.0
+            ]
+        },
+        {
+            "title": "3.7.4 RRM Relaxation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 267,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                141.0
+            ]
+        },
+        {
+            "title": "3.7.5 RRC Release Request and\u00a0UE Assistance",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                475.0
+            ]
+        },
+        {
+            "title": "3.8 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                115.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 271,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                433.0
+            ]
+        },
+        {
+            "title": "Chapter 4: 5G Procedure, RAN Architecture, and\u00a0Protocol",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 40,
+            "page_index": 277,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.1 5G-NR New Procedures",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 277,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                289.0
+            ]
+        },
+        {
+            "title": "4.1.1 Initial Access and\u00a0Mobility (IAM)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 277,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                263.0
+            ]
+        },
+        {
+            "title": "4.1.2 Beam Management",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 281,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.1.2.1 Downlink Beam Management",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 281,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                506.0
+            ]
+        },
+        {
+            "title": "4.1.2.2 Beam Failure Recovery",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 282,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                296.0
+            ]
+        },
+        {
+            "title": "4.1.2.3 Uplink Beam Management",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 283,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                290.0
+            ]
+        },
+        {
+            "title": "4.1.3 Power Control",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.1.3.1 Fractional Power Control Design",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                398.0
+            ]
+        },
+        {
+            "title": "4.1.3.2 NR Uplink Power Control Design Requirements and\u00a0Framework",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 285,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                231.0
+            ]
+        },
+        {
+            "title": "4.1.4 HARQ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 286,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                282.0
+            ]
+        },
+        {
+            "title": "4.1.5 Multi-TRP Transmission",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 288,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                409.0
+            ]
+        },
+        {
+            "title": "4.2 RAN Architecture Evolution and\u00a0Protocol",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 26,
+            "page_index": 290,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.2.1 Overall Architecture",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 9,
+            "page_index": 290,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                582.0
+            ]
+        },
+        {
+            "title": "4.2.1.1 RAN Architecture Overview",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 290,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                372.0
+            ]
+        },
+        {
+            "title": "4.2.1.2 RAN Architecture Options",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 291,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                200.0
+            ]
+        },
+        {
+            "title": "4.2.1.3 CU-DU Split",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 293,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                358.0
+            ]
+        },
+        {
+            "title": "4.2.1.4 Integrated Access and\u00a0Backhaul",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 293,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                154.0
+            ]
+        },
+        {
+            "title": "4.2.1.5 RAN Protocol and\u00a0Stack",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 295,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                310.0
+            ]
+        },
+        {
+            "title": "4.2.1.5.1 NR Stand-Alone Network Protocol Architecture",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 295,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                285.0
+            ]
+        },
+        {
+            "title": "4.2.1.5.1.1 Control Plane",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 295,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                207.0
+            ]
+        },
+        {
+            "title": "4.2.1.5.1.2 User Plane",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 296,
+            "view_mode": "XYZ",
+            "view_pos": [
+                158.0,
+                282.0
+            ]
+        },
+        {
+            "title": "4.2.1.5.2 MR DC Protocol Architecture",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 305,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                445.0
+            ]
+        },
+        {
+            "title": "4.2.2 Fundamental Procedures for\u00a0NR Stand-Alone",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 308,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                212.0
+            ]
+        },
+        {
+            "title": "4.2.2.1 UE State Transition",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 308,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                187.0
+            ]
+        },
+        {
+            "title": "4.2.2.2 System Information Acquisition",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 309,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                428.0
+            ]
+        },
+        {
+            "title": "4.2.2.3 Paging and\u00a0DRX",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 311,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                500.0
+            ]
+        },
+        {
+            "title": "4.2.2.4 Access Control",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.2.2.5 Random Access Procedure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                248.0
+            ]
+        },
+        {
+            "title": "4.2.2.6 RRC Procedures Supporting RRC_INACTIVE State",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 315,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                291.0
+            ]
+        },
+        {
+            "title": "4.2.3 Mobility Control",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 316,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                164.0
+            ]
+        },
+        {
+            "title": "4.2.3.1 Cell Selection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 316,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                139.0
+            ]
+        },
+        {
+            "title": "4.2.3.2 Cell Reselection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 317,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                548.0
+            ]
+        },
+        {
+            "title": "4.2.3.3 Measurements in\u00a0RRC_CONNECTED",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 317,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                284.0
+            ]
+        },
+        {
+            "title": "4.2.3.4 Inter-system/Inter-RAT Mobility in\u00a0Connected Mode",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 318,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                254.0
+            ]
+        },
+        {
+            "title": "4.2.3.4.1 Beam-Level Mobility",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 318,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                145.0
+            ]
+        },
+        {
+            "title": "4.2.3.4.2 Handover",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 319,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                225.0
+            ]
+        },
+        {
+            "title": "4.2.4 Vertical Support",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 320,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                150.0
+            ]
+        },
+        {
+            "title": "4.2.4.1 Slicing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "4.3 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                265.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 323,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                457.0
+            ]
+        },
+        {
+            "title": "Chapter 5: 5G System Architecture",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 28,
+            "page_index": 324,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "5.1 5G System Architecture",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 325,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "5.2 5G Core (5GC) Service-Based Architecture",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 327,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                553.0
+            ]
+        },
+        {
+            "title": "5.3 Network Slicing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 330,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                393.0
+            ]
+        },
+        {
+            "title": "5.4 Registration, Connection, and\u00a0Session Management",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                142.0
+            ]
+        },
+        {
+            "title": "5.4.1 Registration Management",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "5.4.2 Connection Management",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                380.0
+            ]
+        },
+        {
+            "title": "5.4.3 Registration Call Flow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 334,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                493.0
+            ]
+        },
+        {
+            "title": "5.4.4 PDU Session Establishment Call Flow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 335,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                145.0
+            ]
+        },
+        {
+            "title": "5.4.5 Service Request",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 337,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                277.0
+            ]
+        },
+        {
+            "title": "5.4.6 Other Procedures",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 338,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                529.0
+            ]
+        },
+        {
+            "title": "5.5 Session and\u00a0Service Continuity in\u00a05GC",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 338,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                325.0
+            ]
+        },
+        {
+            "title": "5.6 Interworking with\u00a0EPC",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 341,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                445.0
+            ]
+        },
+        {
+            "title": "5.7 CP and\u00a0UP\u00a0Protocols in\u00a05G Core",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                277.0
+            ]
+        },
+        {
+            "title": "5.7.1 CP Protocol Stack",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                157.0
+            ]
+        },
+        {
+            "title": "5.7.2 User Plane Protocol Stack",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 343,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                147.0
+            ]
+        },
+        {
+            "title": "5.8 Support for\u00a0Virtualized Deployments",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                284.0
+            ]
+        },
+        {
+            "title": "5.9 Support for\u00a0Edge Computing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 345,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                397.0
+            ]
+        },
+        {
+            "title": "5.10 Policy and\u00a0Charging Control in\u00a05G System",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 351,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                517.0
+            ]
+        },
+        {
+            "title": "5.11 Access Traffic Steering, Switching, Splitting (ATSSS)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                608.0
+            ]
+        },
+        {
+            "title": "5.12 Network Data Analytics Services",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 356,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                337.0
+            ]
+        },
+        {
+            "title": "5.12.1 Example of\u00a0Observed Service Experience-Related Network Data Analytics",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 358,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                445.0
+            ]
+        },
+        {
+            "title": "5.13 Support of\u00a0Non-3GPP Access",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 360,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                248.0
+            ]
+        },
+        {
+            "title": "5.14 Examples of\u00a0Other Features Supported by 5GSG",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 362,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                163.0
+            ]
+        },
+        {
+            "title": "5.14.1 Support for\u00a0Cellular IoT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 362,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                137.0
+            ]
+        },
+        {
+            "title": "5.14.2 Support for\u00a0Location Services",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 363,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                163.0
+            ]
+        },
+        {
+            "title": "5.14.3 Support for\u00a0IP Multimedia Core Network Subsystem (IMS)",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 364,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "5.15 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 364,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                474.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 365,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                433.0
+            ]
+        },
+        {
+            "title": "Chapter 6: 5G Security System Design for\u00a0All Ages",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 48,
+            "page_index": 367,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "6.1 Wireless Security Through the\u00a0Lens of\u00a0Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 367,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                265.0
+            ]
+        },
+        {
+            "title": "6.2 5G Security Goals",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 368,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                163.0
+            ]
+        },
+        {
+            "title": "6.3 Deployment Models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 369,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                433.0
+            ]
+        },
+        {
+            "title": "6.4 Analyzing Known System Vulnerabilities",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 370,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                277.0
+            ]
+        },
+        {
+            "title": "6.4.1 IMSI Catcher",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 370,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                250.0
+            ]
+        },
+        {
+            "title": "6.4.2 Redirect and\u00a0DoS Attack",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 371,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                192.0
+            ]
+        },
+        {
+            "title": "6.4.3 Other Attacks",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 372,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                373.0
+            ]
+        },
+        {
+            "title": "6.4.4 2G and\u00a03G Security",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 373,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                145.0
+            ]
+        },
+        {
+            "title": "6.4.5 4G (and NSA) Security",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 375,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                379.0
+            ]
+        },
+        {
+            "title": "6.5 5G Security",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 16,
+            "page_index": 379,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                246.0
+            ]
+        },
+        {
+            "title": "6.5.1 Security Framework",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                553.0
+            ]
+        },
+        {
+            "title": "6.5.1.1 Trust Model",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                476.0
+            ]
+        },
+        {
+            "title": "6.5.1.2 IMSI Protection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                320.0
+            ]
+        },
+        {
+            "title": "6.5.1.3 Unified Authentication and\u00a0Authentication Enhancement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 381,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                322.0
+            ]
+        },
+        {
+            "title": "6.5.1.4 Secondary Authentication",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 382,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                383.0
+            ]
+        },
+        {
+            "title": "6.5.1.5 Security Architecture and\u00a0Key Hierarchy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 382,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                191.0
+            ]
+        },
+        {
+            "title": "6.5.1.6 User Plane Integrity Protection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 385,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "6.5.1.7 On-demand User Plane Security Policy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 385,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                344.0
+            ]
+        },
+        {
+            "title": "6.5.1.8 Initial NAS Message Protection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 386,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "6.5.1.9 Security Algorithms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "6.5.1.10 Backhaul Security/Interconnect Security",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 387,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                260.0
+            ]
+        },
+        {
+            "title": "6.5.1.11 Enhanced Access Node Security",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                404.0
+            ]
+        },
+        {
+            "title": "6.5.2 Addressing the\u00a0Vulnerabilities",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                231.0
+            ]
+        },
+        {
+            "title": "6.5.2.1 IMSI Catcher",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 390,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                405.0
+            ]
+        },
+        {
+            "title": "6.5.2.2 Redirect and\u00a0DoS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 390,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                117.0
+            ]
+        },
+        {
+            "title": "6.5.2.3 DNS Altering",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                512.0
+            ]
+        },
+        {
+            "title": "6.6 Security for\u00a05G Services",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                373.0
+            ]
+        },
+        {
+            "title": "6.6.1 URLLC",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                241.0
+            ]
+        },
+        {
+            "title": "6.6.2 CIoT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 392,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                263.0
+            ]
+        },
+        {
+            "title": "6.6.3 Service-Based Architecture",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 394,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                253.0
+            ]
+        },
+        {
+            "title": "6.6.4 Network Slicing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 396,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                433.0
+            ]
+        },
+        {
+            "title": "6.6.5 5WWC",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 398,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                421.0
+            ]
+        },
+        {
+            "title": "6.6.6 Support for\u00a0the\u00a0Vertical Industries",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 399,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                469.0
+            ]
+        },
+        {
+            "title": "6.6.7 Integrated Access Backhaul",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 402,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                505.0
+            ]
+        },
+        {
+            "title": "6.6.8 Single Radio Voice Call Continuity from\u00a05G to\u00a03G",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 402,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                193.0
+            ]
+        },
+        {
+            "title": "6.6.9 Security of\u00a05G Enhanced Location Service",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 404,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "6.6.10 Authentication and\u00a0Key Management for\u00a0Application Based on\u00a03GPP Credentials ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 404,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                272.0
+            ]
+        },
+        {
+            "title": "6.6.11 User Plane Gateway Function for\u00a0Inter-PLMN Security",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 405,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                147.0
+            ]
+        },
+        {
+            "title": "6.7 Security Assurance in\u00a05G",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 406,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                329.0
+            ]
+        },
+        {
+            "title": "6.7.1 The Need for\u00a0Security Assurance",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 407,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                457.0
+            ]
+        },
+        {
+            "title": "6.7.2 Joint Effort Between 3GPP and\u00a0GSMA",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 409,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                445.0
+            ]
+        },
+        {
+            "title": "6.7.2.1 Role of\u00a0GSMA in\u00a0NESAS/SCAS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 410,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                410.0
+            ]
+        },
+        {
+            "title": "6.7.2.2 Role of\u00a03GPP in\u00a0NESAS/SCAS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 411,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                524.0
+            ]
+        },
+        {
+            "title": "6.7.2.3 NESAS Pilot Run",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 412,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                432.0
+            ]
+        },
+        {
+            "title": "6.7.3 Security Assurance in\u00a05G",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 412,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                210.0
+            ]
+        },
+        {
+            "title": "6.7.4 Latest",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 413,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                189.0
+            ]
+        },
+        {
+            "title": "6.8 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 414,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                373.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 415,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "Chapter 7: 5G URLLC",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 19,
+            "page_index": 417,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "7.1 Enhancements for\u00a0Physical-Layer Control and\u00a0Data Channels",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 420,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "7.1.1 PDCCH Monitoring and\u00a0DCI Enhancements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 420,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                568.0
+            ]
+        },
+        {
+            "title": "PDCCH Monitoring Enhancements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 420,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                542.0
+            ]
+        },
+        {
+            "title": "DCI Enhancements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 422,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                380.0
+            ]
+        },
+        {
+            "title": "7.1.2 UCI Enhancements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 423,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                529.0
+            ]
+        },
+        {
+            "title": "7.1.3 PUSCH Enhancements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 424,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "7.2 Enhancements to\u00a0Grant-Free and\u00a0DL SPS Transmissions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 424,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                392.0
+            ]
+        },
+        {
+            "title": "7.3 Intra-UE and\u00a0Inter-UE eMBB and\u00a0URLLC Multiplexing",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 425,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                325.0
+            ]
+        },
+        {
+            "title": "7.3.1 UL Intra-UE eMBB and\u00a0URLLC Multiplexing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 425,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                169.0
+            ]
+        },
+        {
+            "title": "7.3.2 UL Inter-UE eMBB and\u00a0URLLC Multiplexing",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 427,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                224.0
+            ]
+        },
+        {
+            "title": "Basic Concept of\u00a0Uplink Cancellation Indication (ULCI)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 427,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                198.0
+            ]
+        },
+        {
+            "title": "Configurable Priority Levels for\u00a0Cancellation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 429,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                165.0
+            ]
+        },
+        {
+            "title": "Power Boosting for\u00a0URLLC on\u00a0Superimposed Resources",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 430,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                218.0
+            ]
+        },
+        {
+            "title": "7.4 End-to-End 5G System Support for\u00a0URLLC",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 431,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                457.0
+            ]
+        },
+        {
+            "title": "7.4.1 Redundant Transmission Within 5G System",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 431,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                277.0
+            ]
+        },
+        {
+            "title": "7.4.1.1\u00a0\u00a0Packet Duplication in\u00a0the\u00a0Air Interface",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 433,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                342.0
+            ]
+        },
+        {
+            "title": "7.4.2 QoS Monitoring for\u00a0URLLC",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 433,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                144.0
+            ]
+        },
+        {
+            "title": "7.5 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 435,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                205.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 436,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                181.0
+            ]
+        },
+        {
+            "title": "Chapter 8: NR V2X Sidelink Design",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 123,
+            "page_index": 438,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.1 V2X Ecosystem",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 439,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.1.1 5GAA Work on\u00a05G Development for\u00a0Connected Automotive",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 439,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                488.0
+            ]
+        },
+        {
+            "title": "8.1.2 Higher Layer Efforts",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 440,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                139.0
+            ]
+        },
+        {
+            "title": "8.1.2.1 ETSI ITS Messaging",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 441,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                392.0
+            ]
+        },
+        {
+            "title": "8.1.2.1.1 CAM Messages",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 441,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                259.0
+            ]
+        },
+        {
+            "title": "8.1.2.1.2 DENM Messages",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 443,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                153.0
+            ]
+        },
+        {
+            "title": "8.1.2.2 SAE Messaging",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 445,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.1.3 IEEE Efforts",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 445,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                409.0
+            ]
+        },
+        {
+            "title": "8.1.3.1 General Overview of\u00a0IEEE802.11p",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 446,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.1.3.2 Comparison Between 802.11p and\u00a0LTE-V",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 446,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                416.0
+            ]
+        },
+        {
+            "title": "8.1.3.3 Evolutions of\u00a0802.11p",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 447,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                446.0
+            ]
+        },
+        {
+            "title": "8.1.3.4 Conclusion",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 449,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.2 3GPP Ecosystem",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 449,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                289.0
+            ]
+        },
+        {
+            "title": "8.2.1 Sidelink Standardization Timeline",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 449,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                181.0
+            ]
+        },
+        {
+            "title": "8.2.1.1 Release-12",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 450,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.2.1.2 Release-13",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 451,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                350.0
+            ]
+        },
+        {
+            "title": "8.2.1.3 Release-14",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 451,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                254.0
+            ]
+        },
+        {
+            "title": "8.2.1.4 Release-15",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 452,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                170.0
+            ]
+        },
+        {
+            "title": "8.2.1.5 Release-16",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 453,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                410.0
+            ]
+        },
+        {
+            "title": "8.2.1.6 Release-17",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 454,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.2.2 Interactions Between LTE-V and\u00a0NR Sidelink V2X",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 454,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                433.0
+            ]
+        },
+        {
+            "title": "8.3 LTE-V",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 45,
+            "page_index": 455,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                529.0
+            ]
+        },
+        {
+            "title": "8.3.1 Requirements for\u00a0safety",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 455,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                433.0
+            ]
+        },
+        {
+            "title": "8.3.1.1 Study Item Outputs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 455,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                296.0
+            ]
+        },
+        {
+            "title": "8.3.1.2 SA1 Requirements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 457,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.1.3 Impact of\u00a0Requirements on\u00a0System Design and\u00a0Evaluation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 459,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                328.0
+            ]
+        },
+        {
+            "title": "8.3.2 Deployment Constraints and\u00a0Design Philosophy",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 461,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                481.0
+            ]
+        },
+        {
+            "title": "8.3.2.1 Reuse the\u00a0LTE Modem Design as\u00a0Much as\u00a0Possible",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 461,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                392.0
+            ]
+        },
+        {
+            "title": "8.3.2.2 Design a\u00a0System that can Work In-coverage or Out-of-coverage",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 462,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.2.3 Design a\u00a0System that can Work on\u00a0a\u00a0Dedicated or a\u00a0Shared Cellular-Sidelink Carrier",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 462,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                350.0
+            ]
+        },
+        {
+            "title": "8.3.2.4 Design a\u00a0System that Can Work With\u00a0or Without GNSS",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 463,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                524.0
+            ]
+        },
+        {
+            "title": "8.3.2.5 Design a\u00a0System Adapted to\u00a0the\u00a0Traffic Type",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 463,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                332.0
+            ]
+        },
+        {
+            "title": "8.3.3 Physical Structure",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 11,
+            "page_index": 464,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                517.0
+            ]
+        },
+        {
+            "title": "8.3.3.1 Frame Structure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 464,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                492.0
+            ]
+        },
+        {
+            "title": "8.3.3.2 LTE-V Subframe",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 464,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                384.0
+            ]
+        },
+        {
+            "title": "8.3.3.3 LTE-V Timing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                320.0
+            ]
+        },
+        {
+            "title": "8.3.3.4 Subchannel",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 466,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                392.0
+            ]
+        },
+        {
+            "title": "8.3.3.5 Resource Pools",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 467,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.3.6 Modulation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 468,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                482.0
+            ]
+        },
+        {
+            "title": "8.3.3.7 Demodulation Reference Signals",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.3.8 Channels for\u00a0Data Transmission",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 473,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                524.0
+            ]
+        },
+        {
+            "title": "8.3.3.8.1 PSSCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 473,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                343.0
+            ]
+        },
+        {
+            "title": "8.3.3.8.2 PSCCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 473,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                187.0
+            ]
+        },
+        {
+            "title": "8.3.3.8.3 PSSCH/PSCCH Multiplexing",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 474,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                571.0
+            ]
+        },
+        {
+            "title": "8.3.4 Synchronization procedures",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.4.1 Possible synchronization sources",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                530.0
+            ]
+        },
+        {
+            "title": "8.3.5 Synchronization Procedure for\u00a0Out-of-coverage UEs",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 476,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                541.0
+            ]
+        },
+        {
+            "title": "8.3.6 Resource Allocation",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 477,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                137.0
+            ]
+        },
+        {
+            "title": "8.3.6.1 SCI Concept",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 477,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                111.0
+            ]
+        },
+        {
+            "title": "8.3.6.2 LTE-V Resource Allocation Modes",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 479,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                458.0
+            ]
+        },
+        {
+            "title": "8.3.6.3 Mode-3 Resource Allocation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 480,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.6.4 Mode-4 Resource Allocation",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 481,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                404.0
+            ]
+        },
+        {
+            "title": "8.3.6.4.1 Sensing Procedure",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 482,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                435.0
+            ]
+        },
+        {
+            "title": "8.3.6.4.2 Resource Selection",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 482,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                219.0
+            ]
+        },
+        {
+            "title": "8.3.7 Physical Layer Procedures",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 484,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.7.1 Broadcast Operation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 484,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                470.0
+            ]
+        },
+        {
+            "title": "8.3.7.2 \u201cHARQ\u201d Operation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 484,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                230.0
+            ]
+        },
+        {
+            "title": "8.3.7.3 Power Control Procedures",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 485,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.3.7.4 Priority Rules",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 485,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                500.0
+            ]
+        },
+        {
+            "title": "8.3.8 QoS and\u00a0Congestion Control Mechanisms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 485,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                283.0
+            ]
+        },
+        {
+            "title": "8.3.9 Specificities for\u00a0Non V2V Traffic",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 486,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                212.0
+            ]
+        },
+        {
+            "title": "8.3.10 Layer 2/3 Enhancements for\u00a0LTE V2X Communication",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 487,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                445.0
+            ]
+        },
+        {
+            "title": "8.3.10.1 Enhancements for\u00a0SPS Resource Allocations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 487,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                344.0
+            ]
+        },
+        {
+            "title": "8.3.10.2 Enhancements for\u00a0Support for\u00a0V2X Sidelink Communication",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 488,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                536.0
+            ]
+        },
+        {
+            "title": "8.3.11 Architecture",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 489,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                457.0
+            ]
+        },
+        {
+            "title": "8.3.11.1 Reference Model",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 489,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                332.0
+            ]
+        },
+        {
+            "title": "8.3.11.2 Impacts to\u00a0EPC procedures",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 490,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                190.0
+            ]
+        },
+        {
+            "title": "8.4 NR",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 53,
+            "page_index": 492,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                457.0
+            ]
+        },
+        {
+            "title": "8.4.1 Requirements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 492,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                313.0
+            ]
+        },
+        {
+            "title": "8.4.1.1 Work in\u00a0SA1",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 492,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                288.0
+            ]
+        },
+        {
+            "title": "8.4.1.2 Impact on\u00a0Physical Layer",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 493,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                170.0
+            ]
+        },
+        {
+            "title": "8.4.1.3 Design Philosophy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 498,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                548.0
+            ]
+        },
+        {
+            "title": "8.4.2 Physical Structure",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 15,
+            "page_index": 498,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                193.0
+            ]
+        },
+        {
+            "title": "8.4.2.1 Frame Structure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 498,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                168.0
+            ]
+        },
+        {
+            "title": "8.4.2.2 BWP and\u00a0Resource Pools",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 501,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                452.0
+            ]
+        },
+        {
+            "title": "8.4.2.3 Modulation",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 502,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                362.0
+            ]
+        },
+        {
+            "title": "8.4.2.3.1 Waveform",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 502,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                337.0
+            ]
+        },
+        {
+            "title": "8.4.2.3.2 Modulation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 504,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                451.0
+            ]
+        },
+        {
+            "title": "8.4.2.4 Reference Signals",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 504,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                260.0
+            ]
+        },
+        {
+            "title": "8.4.2.4.1 DMRS",
+            "level": 4,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 505,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "8.4.2.4.1.1\u00a0\u00a0DMRS for\u00a0PSSCH Demodulation",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 505,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                469.0
+            ]
+        },
+        {
+            "title": "8.4.2.4.1.2\u00a0\u00a0DMRS for\u00a0PSCCH demodulation",
+            "level": 5,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 507,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                216.0
+            ]
+        },
+        {
+            "title": "8.4.2.4.2 CSI-RS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 508,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                559.0
+            ]
+        },
+        {
+            "title": "8.4.2.4.3 PT-RS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 508,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                367.0
+            ]
+        },
+        {
+            "title": "8.4.2.5 Sidelink Channels",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 508,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                224.0
+            ]
+        },
+        {
+            "title": "8.4.2.5.1 PSSCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 509,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                487.0
+            ]
+        },
+        {
+            "title": "8.4.2.5.2 PSCCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 509,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                355.0
+            ]
+        },
+        {
+            "title": "8.4.2.5.3 PSFCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 509,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                223.0
+            ]
+        },
+        {
+            "title": "8.4.3 Synchronization Procedures",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 511,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                344.0
+            ]
+        },
+        {
+            "title": "8.4.3.1 Possible Synchronization Sources",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 511,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                242.0
+            ]
+        },
+        {
+            "title": "8.4.3.1.1 Synchronization with\u00a0GNSS",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 511,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                122.0
+            ]
+        },
+        {
+            "title": "8.4.3.1.2 Synchronization with\u00a0Network",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 512,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                259.0
+            ]
+        },
+        {
+            "title": "8.4.3.2 Synchronization Slot",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 513,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                363.0
+            ]
+        },
+        {
+            "title": "8.4.3.2.1 Synchronization Signals",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 513,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                291.0
+            ]
+        },
+        {
+            "title": "8.4.3.2.2 PSBCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 514,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                165.0
+            ]
+        },
+        {
+            "title": "8.4.4 Resource Allocation",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 515,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                198.0
+            ]
+        },
+        {
+            "title": "8.4.4.1 Mode-1 Resource Allocation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 516,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                530.0
+            ]
+        },
+        {
+            "title": "8.4.4.2 Mode-2 Resource Allocation",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 518,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                138.0
+            ]
+        },
+        {
+            "title": "8.4.4.2.1 Step 1: Identification of\u00a0Candidate Resources Within the\u00a0Resource Selection Window",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 519,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                451.0
+            ]
+        },
+        {
+            "title": "8.4.4.2.2 Step 2: Resource Selection",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 520,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "8.4.4.3 SCI Design",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 520,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                428.0
+            ]
+        },
+        {
+            "title": "8.4.4.3.1 General Concept",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 520,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                403.0
+            ]
+        },
+        {
+            "title": "8.4.4.3.2 First Stage SCI",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 521,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                482.0
+            ]
+        },
+        {
+            "title": "8.4.4.3.3 Second Stage SCI",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 523,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                448.0
+            ]
+        },
+        {
+            "title": "8.4.5 Physical Layer Procedures",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 524,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                449.0
+            ]
+        },
+        {
+            "title": "8.4.5.1 HARQ Procedures",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 524,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                335.0
+            ]
+        },
+        {
+            "title": "8.4.5.1.1 General Principles",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 524,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                311.0
+            ]
+        },
+        {
+            "title": "8.4.5.1.2 Automatic Retransmission",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 525,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                475.0
+            ]
+        },
+        {
+            "title": "8.4.5.1.3 HARQ",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 525,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                259.0
+            ]
+        },
+        {
+            "title": "8.4.5.1.4 HARQ Reporting on\u00a0the\u00a0PSFCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 527,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "8.4.5.1.5 Priority Rules on\u00a0the\u00a0PSFCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 528,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.0,
+                607.0
+            ]
+        },
+        {
+            "title": "8.4.6 Power Control Procedures",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 528,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                385.0
+            ]
+        },
+        {
+            "title": "8.4.6.1 CSI Reporting",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 529,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.4.7 QoS and\u00a0Congestion Control Mechanisms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 529,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                397.0
+            ]
+        },
+        {
+            "title": "8.4.8 Cross-RAT Operation",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 530,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.4.8.1 Cross-RAT Scheduling",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 530,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                582.0
+            ]
+        },
+        {
+            "title": "8.4.8.2 In-device Coexistence Between LTE and\u00a0NR Sidelinks",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 531,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.4.9 Layer 2/3 Enhancements for\u00a0NR V2X Communication",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 531,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                367.0
+            ]
+        },
+        {
+            "title": "8.4.10 Architecture",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 532,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "8.4.10.1 Reference Model",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 532,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                506.0
+            ]
+        },
+        {
+            "title": "8.4.10.2 Functional Description",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 534,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                152.0
+            ]
+        },
+        {
+            "title": "8.5 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 536,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                313.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 537,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                517.0
+            ]
+        },
+        {
+            "title": "Chapter 9: 5G Industrial IoT",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 14,
+            "page_index": 540,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "9.1 5G-ACIA for\u00a05G Development in\u00a0Manufacturing and\u00a0Processing Industry",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 540,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                230.0
+            ]
+        },
+        {
+            "title": "9.2 IIoT Spectrums",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 543,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                256.0
+            ]
+        },
+        {
+            "title": "9.3 IIoT Enhancements",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 9,
+            "page_index": 545,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                517.0
+            ]
+        },
+        {
+            "title": "9.3.1 Accurate Reference Timing Provisioning",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 545,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                277.0
+            ]
+        },
+        {
+            "title": "9.3.1.1 System Aspects of\u00a0Time Sensitive Communications",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 547,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                392.0
+            ]
+        },
+        {
+            "title": "9.3.2 Scheduling Enhancements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 549,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                195.0
+            ]
+        },
+        {
+            "title": "9.3.3 Ethernet Header Compression",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 550,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                541.0
+            ]
+        },
+        {
+            "title": "9.3.4 Intra-UE Prioritization/Multiplexing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                608.0
+            ]
+        },
+        {
+            "title": "9.3.5 PDCP Duplication",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                344.0
+            ]
+        },
+        {
+            "title": "9.3.6 5G Non-Public Network",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 552,
+            "view_mode": "XYZ",
+            "view_pos": [
+                125.0,
+                505.0
+            ]
+        },
+        {
+            "title": "9.3.6.1 Supporting Standard-Alone Non-public Network",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 553,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                500.0
+            ]
+        },
+        {
+            "title": "9.3.6.2 Supporting Public Network Integrated Non-public Network (PNI-NPN)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 555,
+            "view_mode": "XYZ",
+            "view_pos": [
+                128.0,
+                404.0
+            ]
+        },
+        {
+            "title": "9.4 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 556,
+            "view_mode": "XYZ",
+            "view_pos": [
+                107.0,
+                301.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 557,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                289.0
+            ]
+        },
+        {
+            "title": "Chapter 10: 5G Capability: ITU-R Submission and\u00a0Performance Evaluation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 50,
+            "page_index": 558,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.1 Overview of\u00a05G Requirements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 558,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                277.0
+            ]
+        },
+        {
+            "title": "10.2 Overview of\u00a0Evaluation Methodologies",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 560,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                481.0
+            ]
+        },
+        {
+            "title": "10.2.1 System-Level Simulation for\u00a0eMBB Technical Performance Requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 561,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.2.2 Full System-Level Simulation and\u00a0System plus Link-Level Simulation for\u00a0Connection Density Evaluation",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 562,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                457.0
+            ]
+        },
+        {
+            "title": "10.2.2.1 Overview of\u00a0Full System-Level Simulation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 562,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                340.0
+            ]
+        },
+        {
+            "title": "10.2.2.2 Overview of\u00a0System-Level plus Link-Level Simulation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 563,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                488.0
+            ]
+        },
+        {
+            "title": "10.2.3 System-Level plus Link-level Simulation for\u00a0Mobility and\u00a0Reliability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 563,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                229.0
+            ]
+        },
+        {
+            "title": "10.2.4 Analysis Method",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 564,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.2.5 Inspection Method",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 564,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                428.0
+            ]
+        },
+        {
+            "title": "10.3 Detailed Definition of\u00a0Evaluation Metrics and\u00a0Evaluation Method",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 18,
+            "page_index": 564,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                344.0
+            ]
+        },
+        {
+            "title": "10.3.1 Evaluation Metrics for\u00a0eMBB Requirements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 10,
+            "page_index": 564,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                198.0
+            ]
+        },
+        {
+            "title": "10.3.1.1 Peak Spectral Efficiency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 564,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                120.0
+            ]
+        },
+        {
+            "title": "10.3.1.2 Peak Data Rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 566,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.3.1.3 5th percentile User Spectral Efficiency and\u00a0Average Spectral Efficiency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 566,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                349.0
+            ]
+        },
+        {
+            "title": "10.3.1.4 User Experienced Data Rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 567,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                314.0
+            ]
+        },
+        {
+            "title": "10.3.1.5 Area Traffic Capacity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 568,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                548.0
+            ]
+        },
+        {
+            "title": "10.3.1.6 User Plane Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 568,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                265.0
+            ]
+        },
+        {
+            "title": "10.3.1.7 Control Plane Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 572,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                440.0
+            ]
+        },
+        {
+            "title": "10.3.1.8 Energy Efficiency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 572,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                236.0
+            ]
+        },
+        {
+            "title": "10.3.1.9 Mobility",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 574,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                254.0
+            ]
+        },
+        {
+            "title": "10.3.1.10 Mobility Interruption Time",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 576,
+            "view_mode": "XYZ",
+            "view_pos": [
+                148.0,
+                189.0
+            ]
+        },
+        {
+            "title": "10.3.2 Evaluation Metrics for\u00a0mMTC Requirements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 577,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.3.2.1 Connection Density",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 577,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                582.0
+            ]
+        },
+        {
+            "title": "10.3.3 Evaluation Metrics for\u00a0URLLC Requirements",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 578,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                505.0
+            ]
+        },
+        {
+            "title": "10.3.3.1 User Plane Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 578,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                480.0
+            ]
+        },
+        {
+            "title": "10.3.3.2 Control Plane Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 578,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                360.0
+            ]
+        },
+        {
+            "title": "10.3.3.3 Reliability",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 578,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                288.0
+            ]
+        },
+        {
+            "title": "10.3.3.4 Mobility Interruption Time",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 579,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                548.0
+            ]
+        },
+        {
+            "title": "10.4 5G Performance Evaluation",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 19,
+            "page_index": 579,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                469.0
+            ]
+        },
+        {
+            "title": "10.4.1 5G Wideband Frame Structure and\u00a0Physical Channel Structure",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 579,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                301.0
+            ]
+        },
+        {
+            "title": "10.4.1.1 Contribution to\u00a0Overhead Reduction and\u00a0Spectral Efficiency/Data Rate Improvement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 580,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                548.0
+            ]
+        },
+        {
+            "title": "10.4.1.2 Contribution to\u00a0Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 586,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.4.1.3 Contribution to\u00a0Reliability",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 597,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                136.0
+            ]
+        },
+        {
+            "title": "10.4.2 NR MIMO, Multiple Access, and\u00a0Waveform",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 598,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                304.0
+            ]
+        },
+        {
+            "title": "10.4.2.1 Contribution to\u00a0Spectral Efficiency Improvement",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 598,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                203.0
+            ]
+        },
+        {
+            "title": "Downlink Evaluation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 598,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                130.0
+            ]
+        },
+        {
+            "title": "Uplink Evaluation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 602,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                403.0
+            ]
+        },
+        {
+            "title": "10.4.2.2 Contribution to\u00a0Area Traffic Capacity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 604,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                306.0
+            ]
+        },
+        {
+            "title": "10.4.3 LTE/NR Coexistence (DL/UL Decoupling)",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 607,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                221.0
+            ]
+        },
+        {
+            "title": "10.4.3.1 Contribution to\u00a0DL User Experienced Data Rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 608,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                368.0
+            ]
+        },
+        {
+            "title": "10.4.3.2 Contribution to\u00a0UL User Experienced Data Rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 613,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                157.0
+            ]
+        },
+        {
+            "title": "10.4.3.3 Contribution to\u00a0Uplink User Plane Latency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 614,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                236.0
+            ]
+        },
+        {
+            "title": "10.4.4 NB-IoT",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 617,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.4.5 Evaluation Situation in\u00a0ITU",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 618,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                328.0
+            ]
+        },
+        {
+            "title": "10.4.6 Field Test of\u00a0LTE/NR Spectrum Sharing",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 619,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                456.0
+            ]
+        },
+        {
+            "title": "10.4.6.1 Indoor Test in\u00a0NSA Deployment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 619,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                294.0
+            ]
+        },
+        {
+            "title": "10.4.6.2 Indoor Test in\u00a0SA Deployment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 620,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                151.0
+            ]
+        },
+        {
+            "title": "10.4.6.3 Outdoor Test",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 623,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                608.0
+            ]
+        },
+        {
+            "title": "10.5 Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 625,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                229.0
+            ]
+        },
+        {
+            "title": "Bibliography",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 626,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                193.0
+            ]
+        },
+        {
+            "title": "Chapter 11: The Future of\u00a05G",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 32,
+            "page_index": 628,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        },
+        {
+            "title": "11.1 5G Market",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 628,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                289.0
+            ]
+        },
+        {
+            "title": "11.1.1 5G for\u00a0Enhanced Mobile Broadband Service",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 629,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                397.0
+            ]
+        },
+        {
+            "title": "11.1.2 5G for\u00a0Vertical Applications",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 630,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "11.2 Global Unified 5G Standards and\u00a0Ecosystem",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 630,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                164.0
+            ]
+        },
+        {
+            "title": "11.2.1 3GPP",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 631,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                343.0
+            ]
+        },
+        {
+            "title": "11.3 5G Deployments",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 639,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                349.0
+            ]
+        },
+        {
+            "title": "11.4 5G Trial for\u00a0Vertical Industry",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 641,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                163.0
+            ]
+        },
+        {
+            "title": "11.5 Looking Forward",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 22,
+            "page_index": 643,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                205.0
+            ]
+        },
+        {
+            "title": "11.5.1 Release-17",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 21,
+            "page_index": 644,
+            "view_mode": "XYZ",
+            "view_pos": [
+                137.0,
+                608.0
+            ]
+        },
+        {
+            "title": "11.5.1.1 Further Enhanced MIMO Support",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 644,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                422.0
+            ]
+        },
+        {
+            "title": "11.5.1.1.1 Multi-beam Operation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 645,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                163.0
+            ]
+        },
+        {
+            "title": "11.5.1.1.2 Multi-TRP for\u00a0PDCCH, PUCCH, and\u00a0PUSCH",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 646,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                559.0
+            ]
+        },
+        {
+            "title": "11.5.1.1.3 Beam Management for\u00a0Multi-TRP",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 646,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                427.0
+            ]
+        },
+        {
+            "title": "11.5.1.1.4 SRS Flexibility, Coverage, and\u00a0Capacity",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 646,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                319.0
+            ]
+        },
+        {
+            "title": "11.5.1.1.5 CSI Enhancements for\u00a0MTRP and\u00a0FR1 FDD Reciprocity",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 646,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                235.0
+            ]
+        },
+        {
+            "title": "11.5.1.2 Support for\u00a0Reduce Capacity (RedCap) NR devices",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 647,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                608.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.1 Reduced Number of\u00a0UE Receiver Branches and\u00a0Maximum Number of\u00a0MIMO Layers",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 647,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                295.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.2 UE Bandwidth Reduction",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 648,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                487.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.3 Half-Duplex FDD Operation",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 648,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                235.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.4 Relaxed UE Processing Time",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 649,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                511.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.5 Relaxed Maximum Modulation Order",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 649,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                283.0
+            ]
+        },
+        {
+            "title": "11.5.1.2.6 Reduction of\u00a0PDCCH Monitoring",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                487.0
+            ]
+        },
+        {
+            "title": "11.5.1.3 Support for\u00a0Beyond 52.6\u00a0GHz",
+            "level": 3,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                284.0
+            ]
+        },
+        {
+            "title": "11.5.1.3.1 Channel Access for\u00a060\u00a0GHz",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 651,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                409.0
+            ]
+        },
+        {
+            "title": "11.5.1.3.2 Numerology",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 652,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                607.0
+            ]
+        },
+        {
+            "title": "11.5.1.3.3 Other Enhancements",
+            "level": 4,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 652,
+            "view_mode": "XYZ",
+            "view_pos": [
+                153.0,
+                475.0
+            ]
+        },
+        {
+            "title": "11.5.1.4 Positioning",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 652,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                368.0
+            ]
+        },
+        {
+            "title": "11.5.1.5 Multicast and\u00a0Broadcast Service",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 654,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                374.0
+            ]
+        },
+        {
+            "title": "11.5.1.6 NR Sidelink Enhancement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 655,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                266.0
+            ]
+        },
+        {
+            "title": "11.5.1.7 URLLC Enhancements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 656,
+            "view_mode": "XYZ",
+            "view_pos": [
+                138.0,
+                158.0
+            ]
+        },
+        {
+            "title": "11.6 Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 658,
+            "view_mode": "XYZ",
+            "view_pos": [
+                119.0,
+                253.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 659,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                217.0
+            ]
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 662,
+            "view_mode": "XYZ",
+            "view_pos": [
+                53.0,
+                608.0
+            ]
+        }
+    ],
+    "pages": 694,
+    "ocr_stats": {
+        "ocr_pages": 29,
+        "ocr_failed": 0,
+        "ocr_success": 29,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 197,
+        "equations": {
+            "successful_ocr": 59,
+            "unsuccessful_ocr": 5,
+            "equations": 64
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
